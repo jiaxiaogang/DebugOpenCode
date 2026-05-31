@@ -24,9 +24,6 @@ target
 .scripts
 .direnv/
 
-# Local plugins
-.opencode/plugins/HECodingPlugin.ts
-
 # Local dev files
 opencode-dev
 UPCOMING_CHANGELOG.md
